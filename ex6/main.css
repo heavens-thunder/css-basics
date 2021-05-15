@@ -1,0 +1,9 @@
+.absolute {
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+}
+img{
+    width: 40%;
+    height: 45%;
+}
